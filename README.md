@@ -1,5 +1,4 @@
 
-# DevOps Engineer – Technical Assessment Submission
 
 ## Project Overview
 
